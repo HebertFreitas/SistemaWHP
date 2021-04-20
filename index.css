@@ -1,0 +1,45 @@
+
+
+body {
+    padding: 50px;
+    text-align: center;
+    background-color: #adb5bd;
+}
+
+header {
+    padding-top: 50px;
+}
+
+small {
+    float: left;
+}
+
+#form-meu {
+    width: 20%;
+}
+
+footer {
+    padding-top: 15%;
+}
+
+#sexo {
+    width:  17%;
+}
+
+#meioPagto {
+    width: 10%;
+}
+
+
+
+#pagto {
+    width: 25%;
+}
+
+#cpfH {
+    width: 10%;
+}
+
+#card {
+    padding-top: 5%;
+}
